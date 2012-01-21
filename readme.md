@@ -1,5 +1,9 @@
 # Simplest Kanso Spine App
 
+This is the most basic skeleton Spine app that can be pushed by Kanso to CouchDB.
+
+The instructions below show how to reproduce this code from nothing.  If you want to just use this repository as a starting point then don't forget to run `kanso install` before trying to push.
+
 ## Install Spine and Hem
     ~$ sudo npm -g install spine.app hem
 
